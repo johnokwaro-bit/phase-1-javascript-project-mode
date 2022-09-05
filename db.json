@@ -1,0 +1,107 @@
+{
+  "dishes": [
+    {
+      "id": 1,
+      "name": "Mukimo",
+      "description": "A traditional meal common in Eastern region",
+      "image_url": "https://eatyourworld.com/blog/wp-content/uploads/2020/01/Mukimo-traditional-kenyan-food.jpg?w=1155&h=1528",
+      "reviews": [
+        "It's yammy! Just the way I like it!!"
+        
+      ]
+    },
+
+    {
+        "id": 2,
+      "name": "Githeri",
+      "description": "A traditional meal common in Westen Kenya region. Consist of maize and beans",
+      "image_url": "https://cdn.tasteatlas.com/Images/Dishes/90200d42c5254588a0ec27df96271d15.jpg?w=1155&h=1528",
+      "reviews": [
+        "I love it!!"
+      ]
+    },
+
+    {
+        "id": 3,
+        "name": "Pilau",
+        "description": "One of the traditional meal common in Coastal region. Consist of rise and meat",
+        "image_url": "https://weeatatlast.com/wp-content/uploads/2021/08/east-african-kenyan-pilau-rice-500x500.jpg?w=1155&h=1528",
+        "reviews": [
+          "Fantastic!!"
+        ] 
+    },
+
+    {
+        "id": 4,
+        "name": "Matoke",
+        "description": "A traditional meal common in Nyanza region. Consist of cooked bana",
+        "image_url": "https://media-cdn.tripadvisor.com/media/photo-s/21/a4/97/98/matoke.jpg?w=1155&h=1528",
+        "reviews": [
+          "Superb!!"
+        ] 
+    },
+
+    {
+        "id": 5,
+        "name": "Chiken Stew",
+        "description": "One of the traditional meal common in Westen region. Loved by all",
+        "image_url": "https://www.recipetineats.com/wp-content/uploads/2020/02/Honey-Garlic-Chicken-Breast_5-SQ.jpg?w=1155&h=1528",
+        "reviews": [
+          "Delicious!!"
+        ]
+    },
+
+    {
+        "id": 6,
+        "name": "Arrowroots",
+        "description": "One of the Kenyan traditional meal loved by all",
+        "image_url": "https://i0.wp.com/post.healthline.com/wp-content/uploads/2019/11/arrowroot-root-powder-1296x728-header-1296x728.jpg?w=1155&h=1528",
+        "reviews": [
+          "Yammy!!"
+        ]
+    }
+
+],
+
+
+  "locations":[
+    {
+      "id": 1,
+      "name": "Thika Road",
+      "Description": "Any location along Thika Road upto Juja"
+    },
+
+    {
+      "id": 2,
+      "name": "Westlands",
+      "Description": "Any location along Uhuru Highway upto Kangemi"
+    },
+
+    {
+      "id": 3,
+      "name": "Eastlands",
+      "Description": "Any location along Jogoo Road upto Utawala/Kayole"
+    },
+
+    {
+      "id": 4,
+      "name": "Ngong' Road",
+      "Description": "Any location along Ngong' Road upto Ngong Area"
+    },
+
+    {
+      "id": 5,
+      "name": "Lang'ata Road",
+      "Description": "Any location along Lang'ata Road upto Lang'ata Area"
+    },
+
+    {
+
+      "id": 6,
+      "name": "Mombasa Road",
+      "Description": "Any location along Mombase Road upto Arthi River"
+    }
+  ]
+}
+
+
