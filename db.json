@@ -61,47 +61,7 @@
         ]
     }
 
-],
+]}
 
 
-  "locations":[
-    {
-      "id": 1,
-      "name": "Thika Road",
-      "Description": "Any location along Thika Road upto Juja"
-    },
-
-    {
-      "id": 2,
-      "name": "Westlands",
-      "Description": "Any location along Uhuru Highway upto Kangemi"
-    },
-
-    {
-      "id": 3,
-      "name": "Eastlands",
-      "Description": "Any location along Jogoo Road upto Utawala/Kayole"
-    },
-
-    {
-      "id": 4,
-      "name": "Ngong' Road",
-      "Description": "Any location along Ngong' Road upto Ngong Area"
-    },
-
-    {
-      "id": 5,
-      "name": "Lang'ata Road",
-      "Description": "Any location along Lang'ata Road upto Lang'ata Area"
-    },
-
-    {
-
-      "id": 6,
-      "name": "Mombasa Road",
-      "Description": "Any location along Mombase Road upto Arthi River"
-    }
-  ]
-}
-
-
+ 
