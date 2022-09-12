@@ -18,3 +18,6 @@ As a user, I can be able:
 
 4. To order a meal by clicking on its name or photo. When clicked, a pop-up message is displayed informing the user that the order has been made.
 
+
+
+View  https://johnokwaro-bit.github.io/phase-1-javascript-project-mode/
